@@ -1,4 +1,4 @@
 ---
-title: Learning AI with fasti
+title: Learning AI with fastai
 ---
 
